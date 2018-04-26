@@ -7,6 +7,8 @@
             <li><a href="condition.php">condition</a></li>
             <li><a href="fonctions.php">fonctions</a></li>
             <li><a href="tableau.php">tableau</a></li>
+            <li><a href="bonjour.php">bonjour</a></li>
+            <li><a href="formulaire.php">formualaire</a></li>
         </ul>
     </div>    
 </nav>
