@@ -8,7 +8,8 @@
             <li><a href="fonctions.php">fonctions</a></li>
             <li><a href="tableau.php">tableau</a></li>
             <li><a href="bonjour.php">bonjour</a></li>
-            <li><a href="formulaire.php">formualaire</a></li>
+            <li><a href="formulaire.php">formulaire</a></li>
+            <li><a href="formulairemdp.php">top secret</a></li>
         </ul>
     </div>    
 </nav>
