@@ -7,7 +7,9 @@
     <title>Document</title>
 </head>
     <body>
+    <?php include("menus.php"); ?>
 
+    
         <h2>while</h2>
 
             <?php

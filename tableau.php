@@ -7,6 +7,8 @@
     <title>Document</title>
 </head>
 <body>
+<?php include("menus.php"); ?>
+   
     <h2>tableau numerote</h2>
         <?php
             // La fonction array permet de créer un array
